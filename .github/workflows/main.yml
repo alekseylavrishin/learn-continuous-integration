@@ -11,7 +11,7 @@ on:
 
 jobs:
   "run-jest-tests":
-    runs-on: aleksey-MacBookPro
+    runs-on: cs5500-self-hosted
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
