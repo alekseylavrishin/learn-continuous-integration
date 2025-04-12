@@ -18,6 +18,7 @@ export interface IAuthor extends Document {
   lifespan: string;
 }
 
+
 /**
  * Define the shape of the Author model, including static methods.
  */
